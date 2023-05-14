@@ -10,3 +10,5 @@ streamlit run app.py
 ![QRcode](./Screenshot.jpg "Streamlit QR generator")
 ### Example QR code
 ![QRcode](./100pa.png "Example QR code")
+---
+### [link to this streamlit app.](https://qr-code.streamlit.app/)
