@@ -98,4 +98,4 @@ if submit:
 # FOOTER
 st.write("")
 st.write("")
-st.markdown("Made with ❤️ [100pa.com](https://100pa.com)")
+st.markdown("Made with ❤️ [100pa.com](https://100pa.com) [![buymeacoffee.com/100pacom](https://www.100pa.com/images/coffee30.png)](https://www.buymeacoffee.com/100pacom)")
